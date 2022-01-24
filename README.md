@@ -15,3 +15,5 @@ Blanda en array: https://dev.to/codebubb/how-to-shuffle-an-array-in-javascript-2
 ## Videor
 
 ## Inspelningar
+
+https://funet-my.sharepoint.com/:f:/g/personal/christoffer_wallenberg_folkuniversitetet_se/ElyPBVT0F6RIsLDcMVjvbX8BrVvU2GqnRVBZZ6K_z3ysQw?e=tLxS8x
