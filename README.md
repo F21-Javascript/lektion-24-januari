@@ -10,6 +10,8 @@ Kortlek: https://gist.github.com/zocom-christoffer-wallenberg/2cf722665403d50ac8
 
 ## Artiklar
 
+Blanda en array: https://dev.to/codebubb/how-to-shuffle-an-array-in-javascript-2ikj
+
 ## Videor
 
 ## Inspelningar
